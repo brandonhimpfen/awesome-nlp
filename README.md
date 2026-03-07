@@ -68,6 +68,7 @@
 ## Tools and Applications
 
 - [Gensim](https://radimrehurek.com/gensim/) - A Python library for topic modeling and document similarity.
+- [traceflux](https://github.com/tracer-mohist/traceflux) - A text search engine with associative discovery for text analysis. Uses co-occurrence graphs and PageRank to discover related concepts.
 - [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - A suite of NLP tools for linguistic analysis.
 - [FastText](https://fasttext.cc/) - A library for efficient text classification and representation learning.
 - [Polyglot](https://polyglot.readthedocs.io/) - A multilingual NLP toolkit supporting various languages.
