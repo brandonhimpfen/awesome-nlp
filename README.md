@@ -80,7 +80,7 @@
 - [CoNLL-2003](https://www.clips.uantwerpen.be/conll2003/ner/) - A dataset for named entity recognition.
 - [IMDB Reviews](https://ai.stanford.edu/~amaas/data/sentiment/) - A dataset for sentiment analysis.
 - [WikiText](https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/) - A collection of high-quality text from Wikipedia for language modeling tasks.
-- [tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp/) - Repository of tiny NLP multi-lingual QA datasets and library to generate your own synthetic copies.
+- [tiny_qa_benchmark_pp](https://github.com/vincentkoc/tiny_qa_benchmark_pp/) – Multilingual question-answering dataset collection with tools for generating synthetic QA data.
 
 ## Research Papers
 
