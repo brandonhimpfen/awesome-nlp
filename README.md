@@ -72,6 +72,7 @@
 - [FastText](https://fasttext.cc/) - A library for efficient text classification and representation learning.
 - [Polyglot](https://polyglot.readthedocs.io/) - A multilingual NLP toolkit supporting various languages.
 - [LexRank](https://github.com/crabcamp/lexrank) - A text summarization library using graph-based ranking algorithms.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent trust scoring on Solana. Verify agent wallet identity before x402 micropayments in multilingual AI pipelines. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Datasets
 
